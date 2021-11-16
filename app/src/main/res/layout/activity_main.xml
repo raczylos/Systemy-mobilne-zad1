@@ -47,8 +47,11 @@
         android:padding="30dp"
         android:text="@string/q_activity" />
 
-
-
+    <Button
+        android:id="@+id/prompt_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Podpowiedź" />
 
 
 </LinearLayout>

@@ -1,0 +1,21 @@
+
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+g
+7app/src/test/java/com/example/zad1/ExampleUnitTest.java,2\b\2b0c9d8bb0d42f924d1b6e49bdb758da4f4d06dc
+v
+Fapp/src/androidTest/java/com/example/zad1/ExampleInstrumentedTest.java,6\1\614fba57e2d8ab1f7282f1292053b63869a03780
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+F
+app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
+@
+local.properties,0\7\0712df971a99ac4d2fccb8e0fb19f377f3374cca
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+`
+0app/src/main/java/com/example/zad1/Question.java,c\d\cd69859cb34e867ab6d6cded642b99f4603bcddd
